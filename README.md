@@ -4,6 +4,9 @@
 
 ## Built with
 * Python
+* Numpy
+* Flask
+* Sqlalchemy
 
 <img src = "image1.png" width = 400>
 
